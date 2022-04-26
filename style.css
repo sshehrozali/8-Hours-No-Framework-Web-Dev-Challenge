@@ -1,0 +1,57 @@
+/* #2c1d3a (Primary) */
+/* #692e5e (Secondary) */
+/* #f6fafd (tertiary) */
+
+.text-primary{
+    color: #2c1d3a !important;
+}
+
+.bg-primary{
+    background-color: #2c1d3a !important;
+}
+
+.bg-secondary{
+    background-color: #f6fafd !important;
+}
+
+.btn-primary{
+    background-color: #2c1d3a !important;
+    border: none !important;
+    border-radius: 0 !important;
+    outline: none !important;
+}
+
+.btn-secondary{
+    background-color: #6b2d5e !important;
+    border: none !important;
+    border-radius: 0 !important;
+    outline: none !important;
+}
+
+.bg-light{
+    background-color: transparent !important;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+#form input {
+    border: none !important;
+    border-bottom: 2px solid grey !important;
+    border-radius: 0 !important;
+
+    padding-bottom: 1.5rem !important;
+}
